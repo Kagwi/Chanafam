@@ -55,7 +55,7 @@ const Products = () => {
     {
       name: 'General Hardware',
       path: '/products/general-hardware',
-      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Pipe%20Fittings%20Chanafam%201.PNG',
+      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/General%203.jpg',
       description: 'Essential hardware supplies including nails, screws, tools, and fasteners',
       products: ['Nails & Screws', 'Tools', 'Fasteners', 'Hardware Supplies', 'Safety Equipment'],
       featured: false
