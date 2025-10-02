@@ -211,7 +211,7 @@ const ProductCategory = () => {
         },
         {
           name: 'Fences',
-          image: 'https://github.com/Kagwi/Chanafam/blob/main/public/General%204.jpg?raw=true',
+          image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/General%203.jpg',
           description: 'Quality power tools for efficient construction work',
           features: ['Reliable Strength', 'Safety', 'Various Types', 'Free Delivery']
         },
