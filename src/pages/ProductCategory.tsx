@@ -9,29 +9,29 @@ const ProductCategory = () => {
     plumbing: {
       name: 'Plumbing',
       description: 'Complete plumbing solutions for residential and commercial projects',
-      hero: 'https://images.pexels.com/photos/1249611/pexels-photo-1249611.jpeg?auto=compress&cs=tinysrgb&w=1920',
+      hero: 'https://github.com/Kagwi/Chanafam/blob/main/public/Pipe%20Fittings%20Chanafam%201.PNG?raw=true',
       products: [
         {
           name: 'PVC Pipes - Various Sizes',
-          image: 'https://images.pexels.com/photos/1249611/pexels-photo-1249611.jpeg?auto=compress&cs=tinysrgb&w=400',
+          image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Plumbing%201.jpg',
           description: 'High-quality PVC pipes available in various diameters',
           features: ['Corrosion Resistant', 'Easy Installation', '25 Year Warranty', 'UV Resistant']
         },
         {
           name: 'Water Storage Tanks',
-          image: 'https://images.pexels.com/photos/1249611/pexels-photo-1249611.jpeg?auto=compress&cs=tinysrgb&w=400',
+          image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Plumbing%204.jpg',
           description: 'Durable water tanks for residential and commercial use',
           features: ['Food Grade Material', 'Various Capacities', 'UV Protected', 'Easy Maintenance']
         },
         {
           name: 'Pipe Fittings & Joints',
-          image: 'https://images.pexels.com/photos/1249611/pexels-photo-1249611.jpeg?auto=compress&cs=tinysrgb&w=400',
+          image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Pipe%20Fittings%20Chanafam%201.PNG',
           description: 'Complete range of pipe fittings and connection joints',
           features: ['Leak Proof', 'Various Sizes', 'Easy Installation', 'Long Lasting']
         },
         {
           name: 'Taps & Fixtures',
-          image: 'https://images.pexels.com/photos/1249611/pexels-photo-1249611.jpeg?auto=compress&cs=tinysrgb&w=400',
+          image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Taps%20Chanafam.PNG',
           description: 'Quality taps and plumbing fixtures for all applications',
           features: ['Chrome Finish', 'Water Saving', 'Modern Design', 'Easy Installation']
         }
@@ -44,7 +44,7 @@ const ProductCategory = () => {
       products: [
         {
           name: 'Marine Plywood Sheets',
-          image: 'https://images.pexels.com/photos/175709/pexels-photo-175709.jpeg?auto=compress&cs=tinysrgb&w=400',
+          image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Wood%202.jpg',
           description: 'High-grade marine plywood suitable for various applications',
           features: ['Water Resistant', 'Smooth Finish', 'Various Thicknesses', 'Premium Quality']
         },
@@ -56,13 +56,13 @@ const ProductCategory = () => {
         },
         {
           name: 'Treated Lumber',
-          image: 'https://images.pexels.com/photos/175709/pexels-photo-175709.jpeg?auto=compress&cs=tinysrgb&w=400',
+          image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Treated%20Lumber%20Chanafam.PNG',
           description: 'Pressure-treated lumber for outdoor applications',
           features: ['Insect Resistant', 'Weather Resistant', 'Various Sizes', 'Long Lasting']
         },
         {
-          name: 'OSB & Particle Board',
-          image: 'https://images.pexels.com/photos/175709/pexels-photo-175709.jpeg?auto=compress&cs=tinysrgb&w=400',
+          name: 'Plywood',
+          image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Plywood%20Chanafam.PNG',
           description: 'Engineered wood panels for various construction needs',
           features: ['Cost Effective', 'Strong & Stable', 'Various Thicknesses', 'Easy to Work']
         }
@@ -75,25 +75,25 @@ const ProductCategory = () => {
       products: [
         {
           name: 'Duracoat Interior Paint',
-          image: 'https://images.pexels.com/photos/1669799/pexels-photo-1669799.jpeg?auto=compress&cs=tinysrgb&w=400',
+          image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Pain%201.jpg',
           description: 'Premium interior paint with custom color matching',
           features: ['Low VOC', 'Easy Application', 'Custom Colors', 'Washable Finish']
         },
         {
           name: 'Exterior Weather Paint',
-          image: 'https://images.pexels.com/photos/1669799/pexels-photo-1669799.jpeg?auto=compress&cs=tinysrgb&w=400',
+          image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Paint%202.jpg',
           description: 'Weather-resistant exterior paint for all surfaces',
           features: ['UV Protection', 'Fade Resistant', 'Mold Resistant', '10 Year Warranty']
         },
         {
           name: 'Primers & Undercoats',
-          image: 'https://images.pexels.com/photos/1669799/pexels-photo-1669799.jpeg?auto=compress&cs=tinysrgb&w=400',
+          image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Paint%203.jpg',
           description: 'High-quality primers for proper paint adhesion',
           features: ['Excellent Coverage', 'Quick Dry', 'Various Types', 'Professional Grade']
         },
         {
           name: 'Custom Color Mixing',
-          image: 'https://images.pexels.com/photos/1669799/pexels-photo-1669799.jpeg?auto=compress&cs=tinysrgb&w=400',
+          image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Pain%201.jpg',
           description: 'Professional color matching and custom mixing service',
           features: ['Exact Color Match', 'Computer Assisted', 'Quick Service', 'Color Cards Available']
         }
