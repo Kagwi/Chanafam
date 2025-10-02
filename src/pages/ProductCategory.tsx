@@ -106,56 +106,56 @@ const ProductCategory = () => {
       products: [
         {
           name: 'D9 Steel Bars',
-          image: 'https://images.pexels.com/photos/159728/gear-metal-cog-wheel-159728.jpeg?auto=compress&cs=tinysrgb&w=400',
+          image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Steel%204.jpg',
           description: 'High-strength D9 steel bars for construction reinforcement',
           features: ['High Tensile Strength', 'Corrosion Resistant', 'Various Diameters', 'Quality Tested']
         },
         {
           name: 'Metal Sheets',
-          image: 'https://images.pexels.com/photos/159728/gear-metal-cog-wheel-159728.jpeg?auto=compress&cs=tinysrgb&w=400',
+          image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Metal%20%20Sheets.PNG',
           description: 'Quality metal sheets for roofing and construction',
           features: ['Galvanized Coating', 'Various Thicknesses', 'Custom Sizes', 'Weather Resistant']
         },
         {
           name: 'Steel Angles & Channels',
-          image: 'https://images.pexels.com/photos/159728/gear-metal-cog-wheel-159728.jpeg?auto=compress&cs=tinysrgb&w=400',
+          image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Steel%201.jpg',
           description: 'Structural steel angles and channels for construction',
           features: ['Standard Sizes', 'Hot Rolled', 'Precise Dimensions', 'Structural Grade']
         },
         {
-          name: 'Custom Steel Fabrication',
-          image: 'https://images.pexels.com/photos/159728/gear-metal-cog-wheel-159728.jpeg?auto=compress&cs=tinysrgb&w=400',
+          name: 'Steel Pipes',
+          image: 'github.com/Kagwi/Chanafam/blob/main/public/Steel%20Pipes%20Chanafam.PNG?raw=true',
           description: 'Custom steel fabrication services for specialized needs',
-          features: ['Custom Design', 'Precision Cutting', 'Welding Services', 'Quality Assured']
+          features: ['Steel Pipes', 'Precision Cutting', 'Delivery Services', 'Quality Assured']
         }
       ]
     },
     tiles: {
       name: 'Tiles',
       description: 'Extensive range of floor and wall tiles for residential and commercial use',
-      hero: 'https://images.pexels.com/photos/1090638/pexels-photo-1090638.jpeg?auto=compress&cs=tinysrgb&w=1920',
+      hero: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Porcelain%20Wall%20Tiles%20Chanafam.PNG',
       products: [
         {
           name: 'Ceramic Floor Tiles',
-          image: 'https://images.pexels.com/photos/1090638/pexels-photo-1090638.jpeg?auto=compress&cs=tinysrgb&w=400',
+          image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Chanafam%20Tiles.png',
           description: 'Durable ceramic tiles perfect for high-traffic areas',
           features: ['Water Resistant', 'Easy Clean', 'Various Designs', 'Slip Resistant']
         },
         {
           name: 'Porcelain Wall Tiles',
-          image: 'https://images.pexels.com/photos/1090638/pexels-photo-1090638.jpeg?auto=compress&cs=tinysrgb&w=400',
+          image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Porcelain%20Wall%20Tiles%20Chanafam.PNG',
           description: 'Premium porcelain tiles for walls and decorative applications',
           features: ['Low Porosity', 'Stain Resistant', 'Modern Designs', 'Long Lasting']
         },
         {
           name: 'Natural Stone Tiles',
-          image: 'https://images.pexels.com/photos/1090638/pexels-photo-1090638.jpeg?auto=compress&cs=tinysrgb&w=400',
+          image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Chanafam%20Tiles%202.jpg',
           description: 'Beautiful natural stone tiles for elegant finishes',
           features: ['Natural Beauty', 'Unique Patterns', 'Durable', 'Heat Resistant']
         },
         {
           name: 'Tile Adhesives & Grout',
-          image: 'https://images.pexels.com/photos/1090638/pexels-photo-1090638.jpeg?auto=compress&cs=tinysrgb&w=400',
+          image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Tile%20Grout%20and%20Adhesives%20Chanafam.PNG',
           description: 'Professional-grade adhesives and grout for tile installation',
           features: ['Strong Bonding', 'Water Resistant', 'Various Colors', 'Easy Application']
         }
