@@ -7,16 +7,36 @@ const Home = () => {
 
   const heroSlides = [
     {
+      title: 'Expert Services & Support',
+      subtitle: 'From custom paint mixing to steel cutting and delivery services, our expert team provides comprehensive support for all your projects.',
+      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Hero%201%20-%20Copy%20-%20Copy%20-%20Copy.jpg',
+      cta: 'Our Services'
+    },
+    {
       title: 'Your Complete Building Materials Solution',
       subtitle: 'From plumbing to paintwork, steel to tiles - CHANAFARM INVESTMENT supplies everything you need for your construction and renovation projects.',
       subtitle: 'From plumbing to paintwork, steel to tiles - CHANAFAM INVESTMENT supplies everything you need for your construction and renovation projects.',
-      image: 'https://images.pexels.com/photos/1249611/pexels-photo-1249611.jpeg?auto=compress&cs=tinysrgb&w=1920',
+      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Hero%202.jpg',
       cta: 'Explore Products'
     },
     {
       title: 'Premium Quality Materials',
       subtitle: 'We source only the highest quality building materials from trusted suppliers to ensure your projects meet the highest standards.',
       image: 'https://images.pexels.com/photos/159306/construction-site-build-construction-work-159306.jpeg?auto=compress&cs=tinysrgb&w=1920',
+      cta: 'View Products'
+    },
+    {
+      title: 'Your Complete Building Materials Solution',
+      subtitle: 'From plumbing to paintwork, steel to tiles - CHANAFARM INVESTMENT supplies everything you need for your construction and renovation projects.',
+      subtitle: 'From plumbing to paintwork, steel to tiles - CHANAFAM INVESTMENT supplies everything you need for your construction and renovation projects.',
+      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Hero%203.jpg',
+      cta: 'Explore Products'
+    },
+    
+    {
+      title: 'Premium Quality Materials',
+      subtitle: 'We source only the highest quality building materials from trusted suppliers to ensure your projects meet the highest standards.',
+      image: 'https://github.com/Kagwi/Chanafam/blob/main/public/Hero%204.jpg?raw=true',
       cta: 'View Products'
     },
     {
@@ -45,37 +65,37 @@ const Home = () => {
   const categories = [
     {
       name: 'Plumbing',
-      image: 'https://images.pexels.com/photos/1249611/pexels-photo-1249611.jpeg?auto=compress&cs=tinysrgb&w=500',
+      image: 'https://github.com/Kagwi/Chanafam/blob/main/public/Plumbing%201.jpg?raw=true',
       description: 'Pipes, fittings, tanks & more',
       path: '/products/plumbing'
     },
     {
       name: 'Wood Products',
-      image: 'https://images.pexels.com/photos/175709/pexels-photo-175709.jpeg?auto=compress&cs=tinysrgb&w=500',
+      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Wood%201.jpg',
       description: 'Plywood, lumber & wood materials',
       path: '/products/wood'
     },
     {
       name: 'Paintwork',
-      image: 'https://images.pexels.com/photos/1669799/pexels-photo-1669799.jpeg?auto=compress&cs=tinysrgb&w=500',
+      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Pain%201.jpg',
       description: 'Custom paint mixing with Duracoat',
       path: '/products/paintwork'
     },
     {
       name: 'Steel & Metal',
-      image: 'https://images.pexels.com/photos/159728/gear-metal-cog-wheel-159728.jpeg?auto=compress&cs=tinysrgb&w=500',
+      image: 'https://github.com/Kagwi/Chanafam/blob/main/public/Steel%201.jpg?raw=true',
       description: 'D9 steel, metal sheets & steelwork',
       path: '/products/steel'
     },
     {
       name: 'Tiles',
-      image: 'https://images.pexels.com/photos/1090638/pexels-photo-1090638.jpeg?auto=compress&cs=tinysrgb&w=500',
+      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Tiles.jpg',
       description: 'Floor & wall tiles for every project',
       path: '/products/tiles'
     },
     {
       name: 'Doors & Windows',
-      image: 'https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg?auto=compress&cs=tinysrgb&w=500',
+      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Doors%20Chanafam_imgupscaler.ai_v1(Fast)_2K.jpg',
       description: 'Quality doors & windows',
       path: '/products/doors-windows'
     }
