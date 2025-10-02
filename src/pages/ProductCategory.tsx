@@ -124,7 +124,7 @@ const ProductCategory = () => {
         },
         {
           name: 'Steel Pipes',
-          image: 'github.com/Kagwi/Chanafam/blob/main/public/Steel%20Pipes%20Chanafam.PNG?raw=true',
+          image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Steel%20Pipes%20Chanafam.PNG',
           description: 'Custom steel fabrication services for specialized needs',
           features: ['Steel Pipes', 'Precision Cutting', 'Delivery Services', 'Quality Assured']
         }
@@ -164,29 +164,29 @@ const ProductCategory = () => {
     'doors-windows': {
       name: 'Doors & Windows',
       description: 'Quality doors and windows for residential and commercial applications',
-      hero: 'https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg?auto=compress&cs=tinysrgb&w=1920',
+      hero: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Doors%20Chanafam_imgupscaler.ai_v1(Fast)_2K.jpg',
       products: [
         {
           name: 'Interior Doors',
-          image: 'https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg?auto=compress&cs=tinysrgb&w=400',
+          image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Doors%20Chanafam_imgupscaler.ai_v1(Fast)_2K.jpg',
           description: 'Quality interior doors in various styles and finishes',
           features: ['Multiple Styles', 'Pre-hung Options', 'Quality Hardware', 'Custom Sizes']
         },
         {
           name: 'Exterior Security Doors',
-          image: 'https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg?auto=compress&cs=tinysrgb&w=400',
+          image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Security%20Doors%20Chanafam.PNG',
           description: 'Secure exterior doors for home and business protection',
           features: ['Security Features', 'Weather Sealed', 'Multiple Locks', 'Energy Efficient']
         },
         {
           name: 'Windows - Various Types',
-          image: 'https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg?auto=compress&cs=tinysrgb&w=400',
+          image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Windows%20Chanafam.PNG',
           description: 'Quality windows for natural light and ventilation',
           features: ['Energy Efficient', 'Easy Operation', 'Various Styles', 'Weather Sealed']
         },
         {
           name: 'Door & Window Hardware',
-          image: 'https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg?auto=compress&cs=tinysrgb&w=400',
+          image: 'https://github.com/Kagwi/Chanafam/blob/main/public/Windows%20and%20Doors%20Hardware%20Chanafam.PNG?raw=true',
           description: 'Complete range of hardware for doors and windows',
           features: ['Quality Materials', 'Various Finishes', 'Easy Installation', 'Secure Locking']
         }
@@ -199,21 +199,21 @@ const ProductCategory = () => {
       products: [
         {
           name: 'Nails & Screws',
-          image: 'https://images.pexels.com/photos/162553/keys-workshop-mechanic-tools-162553.jpeg?auto=compress&cs=tinysrgb&w=400',
+          image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/KIH_0017.jpg',
           description: 'Complete range of nails and screws for all applications',
           features: ['Various Sizes', 'Galvanized Coating', 'High Quality', 'Bulk Quantities']
         },
         {
-          name: 'Hand Tools',
-          image: 'https://images.pexels.com/photos/162553/keys-workshop-mechanic-tools-162553.jpeg?auto=compress&cs=tinysrgb&w=400',
+          name: 'Cement',
+          image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Cement.jpg',
           description: 'Professional hand tools for construction and maintenance',
-          features: ['Durable Construction', 'Ergonomic Design', 'Warranty Included', 'Professional Grade']
+          features: ['Durable Construction', 'Reliable Brands', 'Swift Delivery', 'Professional Grade']
         },
         {
-          name: 'Power Tools',
-          image: 'https://images.pexels.com/photos/162553/keys-workshop-mechanic-tools-162553.jpeg?auto=compress&cs=tinysrgb&w=400',
+          name: 'Fences',
+          image: 'https://github.com/Kagwi/Chanafam/blob/main/public/General%204.jpg?raw=true',
           description: 'Quality power tools for efficient construction work',
-          features: ['Reliable Performance', 'Safety Features', 'Various Types', 'Service Support']
+          features: ['Reliable Strength', 'Safety', 'Various Types', 'Free Delivery']
         },
         {
           name: 'Fasteners & Bolts',
