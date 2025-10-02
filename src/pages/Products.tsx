@@ -7,7 +7,7 @@ const Products = () => {
     {
       name: 'Plumbing',
       path: '/products/plumbing',
-      image: 'https://images.pexels.com/photos/1249611/pexels-photo-1249611.jpeg?auto=compress&cs=tinysrgb&w=500',
+      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Plumbing%202.jpg',
       description: 'Complete plumbing solutions including pipes, fittings, tanks, and fixtures',
       products: ['PVC Pipes', 'Water Tanks', 'Pipe Fittings', 'Taps & Fixtures', 'Plumbing Tools'],
       featured: true
@@ -23,7 +23,7 @@ const Products = () => {
     {
       name: 'Paintwork',
       path: '/products/paintwork',
-      image: 'https://images.pexels.com/photos/1669799/pexels-photo-1669799.jpeg?auto=compress&cs=tinysrgb&w=500',
+      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Pain%201.jpg',
       description: 'Professional paints and custom color mixing services with Duracoat',
       products: ['Interior Paint', 'Exterior Paint', 'Primers', 'Custom Color Mixing', 'Paint Tools'],
       featured: true
@@ -31,7 +31,7 @@ const Products = () => {
     {
       name: 'Steel & Metal',
       path: '/products/steel',
-      image: 'https://images.pexels.com/photos/159728/gear-metal-cog-wheel-159728.jpeg?auto=compress&cs=tinysrgb&w=500',
+      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Steel%20Pipes%20Chanafam.PNG',
       description: 'High-quality steel products including D9 steel and custom fabrication',
       products: ['D9 Steel', 'Metal Sheets', 'Steel Bars', 'Custom Fabrication', 'Metal Fencing'],
       featured: false
@@ -39,7 +39,7 @@ const Products = () => {
     {
       name: 'Tiles',
       path: '/products/tiles',
-      image: 'https://images.pexels.com/photos/1090638/pexels-photo-1090638.jpeg?auto=compress&cs=tinysrgb&w=500',
+      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Chanafam%20Tiles.png',
       description: 'Extensive range of floor and wall tiles for residential and commercial use',
       products: ['Floor Tiles', 'Wall Tiles', 'Ceramic Tiles', 'Porcelain Tiles', 'Tile Adhesives'],
       featured: true
@@ -47,7 +47,7 @@ const Products = () => {
     {
       name: 'Doors & Windows',
       path: '/products/doors-windows',
-      image: 'https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg?auto=compress&cs=tinysrgb&w=500',
+      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Doors%20Chanafam_imgupscaler.ai_v1(Fast)_2K.jpg',
       description: 'Quality doors and windows for residential and commercial applications',
       products: ['Interior Doors', 'Exterior Doors', 'Windows', 'Door Hardware', 'Window Hardware'],
       featured: false
@@ -55,7 +55,7 @@ const Products = () => {
     {
       name: 'General Hardware',
       path: '/products/general-hardware',
-      image: 'https://images.pexels.com/photos/162553/keys-workshop-mechanic-tools-162553.jpeg?auto=compress&cs=tinysrgb&w=500',
+      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Pipe%20Fittings%20Chanafam%201.PNG',
       description: 'Essential hardware supplies including nails, screws, tools, and fasteners',
       products: ['Nails & Screws', 'Tools', 'Fasteners', 'Hardware Supplies', 'Safety Equipment'],
       featured: false
@@ -63,7 +63,7 @@ const Products = () => {
     {
       name: 'Roofing Materials',
       path: '/products/roofing',
-      image: 'https://images.pexels.com/photos/280229/pexels-photo-280229.jpeg?auto=compress&cs=tinysrgb&w=500',
+      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Metal%20%20Sheets.PNG',
       description: 'Complete roofing solutions including sheets, tiles, and accessories',
       products: ['Roofing Sheets', 'Roof Tiles', 'Gutters', 'Flashing', 'Roofing Tools'],
       featured: true
@@ -74,25 +74,25 @@ const Products = () => {
     {
       name: 'Premium PVC Pipes',
       category: 'Plumbing',
-      image: 'https://images.pexels.com/photos/1249611/pexels-photo-1249611.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Plumbing%202.jpg',
       features: ['Corrosion Resistant', 'Easy Installation', '25 Year Warranty']
     },
     {
       name: 'Duracoat Premium Paint',
       category: 'Paintwork',
-      image: 'https://images.pexels.com/photos/1669799/pexels-photo-1669799.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Pain%201.jpg',
       features: ['Custom Color Mixing', 'Weather Resistant', 'Quick Dry Formula']
     },
     {
       name: 'D9 Steel Bars',
       category: 'Steel & Metal',
-      image: 'https://images.pexels.com/photos/159728/gear-metal-cog-wheel-159728.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Steel%204.jpg',
       features: ['High Strength', 'Corrosion Resistant', 'Various Dimensions']
     },
     {
       name: 'Premium Ceramic Tiles',
       category: 'Tiles',
-      image: 'https://images.pexels.com/photos/1090638/pexels-photo-1090638.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Chanafam%20Tiles%202.jpg',
       features: ['Water Resistant', 'Easy Clean', 'Multiple Designs']
     }
   ];
