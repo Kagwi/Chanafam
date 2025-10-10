@@ -273,7 +273,7 @@ const Header = () => {
                 
                 <Link
                   to="/contact"
-                  className="block w-full text-center bg-gradient-to-r from-yellow-400 to-orange-500 text-white px-6 py-3 rounded-lg font-medium hover:from-yellow-500 hover:to-orange-600 transition-all duration-200"
+                  className="block w-full text-center bg-gradient-to-r from-pink-400 to-orange-500 text-white px-6 py-3 rounded-lg font-medium hover:from-yellow-500 hover:to-orange-600 transition-all duration-200"
                   onClick={() => {
                     setIsMenuOpen(false);
                     window.scrollTo({ top: 0, behavior: 'smooth' });
