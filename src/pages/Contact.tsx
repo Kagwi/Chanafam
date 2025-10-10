@@ -100,7 +100,7 @@ This message was sent from the CHANAFAM INVESTMENT website contact form.`
       <section className="relative bg-gradient-to-br from-gray-900 to-gray-800 text-white py-20">
         <div className="absolute inset-0 opacity-20">
           <img
-            src="https://images.pexels.com/photos/1413412/pexels-photo-1413412.jpeg?auto=compress&cs=tinysrgb&w=1920"
+            src="https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Hero%201%20-%20Copy%20-%20Copy%20-%20Copy.jpg"
             alt="Contact"
             className="w-full h-full object-cover"
           />
