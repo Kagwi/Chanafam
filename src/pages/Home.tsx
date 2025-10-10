@@ -119,13 +119,13 @@ const Home = () => {
     },
     {
       name: 'Taps & Fixtures',
-      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Taps%20Chanafam.PNG',
+      image: '/Taps Chanafam.PNG',
       description: 'Quality taps and plumbing fixtures for all applications',
       features: ['Chrome Finish', 'Water Saving', 'Modern Design', 'Easy Installation']
     },
     {
       name: 'Marine Plywood Sheets',
-      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Wood%202.jpg',
+      image: '/Wood 2.jpg',
       description: 'High-grade marine plywood suitable for various applications',
       features: ['Water Resistant', 'Smooth Finish', 'Various Thicknesses', 'Premium Quality']
     },
@@ -137,79 +137,79 @@ const Home = () => {
     },
     {
       name: 'Treated Lumber',
-      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Treated%20Lumber%20Chanafam.PNG',
+      image: '/Treated Lumber Chanafam.PNG',
       description: 'Pressure-treated lumber for outdoor applications',
       features: ['Insect Resistant', 'Weather Resistant', 'Various Sizes', 'Long Lasting']
     },
     {
       name: 'Plywood',
-      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Plywood%20Chanafam.PNG',
+      image: '/Plywood Chanafam.PNG',
       description: 'Engineered wood panels for various construction needs',
       features: ['Cost Effective', 'Strong & Stable', 'Various Thicknesses', 'Easy to Work']
     },
     {
       name: 'Duracoat Interior Paint',
-      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Pain%201.jpg',
+      image: '/Pain 1.jpg',
       description: 'Premium interior paint with custom color matching',
       features: ['Low VOC', 'Easy Application', 'Custom Colors', 'Washable Finish']
     },
     {
       name: 'Exterior Weather Paint',
-      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Paint%202.jpg',
+      image: '/Paint 2.jpg',
       description: 'Weather-resistant exterior paint for all surfaces',
       features: ['UV Protection', 'Fade Resistant', 'Mold Resistant', '10 Year Warranty']
     },
     {
       name: 'Primers & Undercoats',
-      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Paint%203.jpg',
+      image: '/Paint 3.jpg',
       description: 'High-quality primers for proper paint adhesion',
       features: ['Excellent Coverage', 'Quick Dry', 'Various Types', 'Professional Grade']
     },
     {
       name: 'Custom Color Mixing',
-      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Pain%201.jpg',
+      image: '/Pain 1.jpg',
       description: 'Professional color matching and custom mixing service',
       features: ['Exact Color Match', 'Computer Assisted', 'Quick Service', 'Color Cards Available']
     },
     {
       name: 'D8, D10, D12, D16, D20, D25, and D32 Steel Bars',
-      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Steel%204.jpg',
+      image: '/Steel 4.jpg',
       description: 'High-strength D9 steel bars for construction reinforcement',
       features: ['High Tensile Strength', 'Corrosion Resistant', 'Various Diameters', 'Quality Tested']
     },
     {
       name: 'Metal Sheets',
-      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Metal%20%20Sheets.PNG',
+      image: '/Metal Sheets.PNG',
       description: 'Quality metal sheets for roofing and construction',
       features: ['Galvanized Coating', 'Various Thicknesses', 'Custom Sizes', 'Weather Resistant']
     },
     {
       name: 'Steel Angles & Channels',
-      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Steel%201.jpg',
+      image: '/Steel 1.jpg',
       description: 'Structural steel angles and channels for construction',
       features: ['Standard Sizes', 'Hot Rolled', 'Precise Dimensions', 'Structural Grade']
     },
     {
       name: 'Steel Pipes',
-      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Steel%20Pipes%20Chanafam.PNG',
+      image: '/Steel Pipes Chanafam.PNG',
       description: 'Custom steel fabrication services for specialized needs',
       features: ['Steel Pipes', 'Precision Cutting', 'Delivery Services', 'Quality Assured']
     },
     {
       name: 'Nails & Screws',
-      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/KIH_0017.jpg',
+      image: '/KIH_0017.jpg',
       description: 'Complete range of nails and screws for all applications',
       features: ['Various Sizes', 'Galvanized Coating', 'High Quality', 'Bulk Quantities']
     },
     {
       name: 'Cement',
-      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Cement.jpg',
+      image: '/Cement.jpg',
       description: 'Professional hand tools for construction and maintenance',
       features: ['Durable Construction', 'Reliable Brands', 'Swift Delivery', 'Professional Grade']
     },
     {
       name: 'Fences',
-      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/General%203.jpg',
+      image: '/General 3.jpg',
       description: 'Quality power tools for efficient construction work',
       features: ['Reliable Strength', 'Safety', 'Various Types', 'Free Delivery']
     },
