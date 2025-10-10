@@ -152,18 +152,6 @@ const Header = () => {
               </Link>
             </nav>
 
-            {/* Search and Mobile Menu */}
-            <div className="flex items-center space-x-4">
-              {/* Search */}
-              <div className="hidden md:flex items-center bg-gray-100 rounded-lg px-3 py-2">
-                <Search size={18} className="text-gray-400 mr-2" />
-                <input
-                  type="text"
-                  placeholder="Search products..."
-                  className="bg-transparent text-sm outline-none w-32 lg:w-48"
-                />
-              </div>
-
               {/* Quote Button */}
               <Link
                 to="/contact"
