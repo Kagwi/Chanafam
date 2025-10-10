@@ -299,24 +299,24 @@ This message was sent from the CHANAFAM INVESTMENT website contact form.`
                 </p>
 
                 {/* Location Image */}
-              <div className="bg-gray-200 rounded-lg h-64 mb-6 relative overflow-hidden animate-fade-in-up">
-                <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63823.9319308017!2d37.00918522167967!3d-1.163472700000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f4375959c8c8b%3A0x2c0a002ea755b731!2sChana%20Farm%20Investment!5e0!3m2!1sen!2ske!4v1760103369284!5m2!1sen!2ske"
-                  width="100%"
-                  height="100%"
-                  style={{ border: 0 }}
-                  allowFullScreen=""
-                  loading="lazy"
-                  referrerPolicy="no-referrer-when-downgrade"
-                  className="rounded-lg hover:scale-105 transition-transform duration-300"
-                  title="CHANAFAM INVESTMENT Location"
-                ></iframe>
-                <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent rounded-lg"></div>
-                <div className="absolute bottom-4 left-4 text-white">
-                <h3 className="text-lg font-semibold">CHANAFAM INVESTMENT</h3>
-                <p className="text-sm">Juja Farm, Kiambu County</p>
-                </div> 
-            </div>
+                <div className="bg-gray-200 rounded-lg h-64 mb-6 relative overflow-hidden animate-fade-in-up">
+                  <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63823.9319308017!2d37.00918522167967!3d-1.163472700000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f4375959c8c8b%3A0x2c0a002ea755b731!2sChana%20Farm%20Investment!5e0!3m2!1sen!2ske!4v1760103369284!5m2!1sen!2ske"
+                    width="100%"
+                    height="100%"
+                    style={{ border: 0 }}
+                    allowFullScreen=""
+                    loading="lazy"
+                    referrerPolicy="no-referrer-when-downgrade"
+                    className="rounded-lg hover:scale-105 transition-transform duration-300"
+                    title="CHANAFAM INVESTMENT Location"
+                  ></iframe>
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent rounded-lg pointer-events-none"></div>
+                  <div className="absolute bottom-4 left-4 text-white pointer-events-none">
+                    <h3 className="text-lg font-semibold">CHANAFAM INVESTMENT</h3>
+                    <p className="text-sm">Juja Farm, Kiambu County</p>
+                  </div>
+                </div>
 
                 {/* Quick Contact Options */}
                 <div className="space-y-4">
