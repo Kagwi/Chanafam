@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Menu, X, Search, ChevronDown, Phone, Mail, Clock } from 'lucide-react';
+import { Menu, X, ChevronDown, Phone, Mail, Clock } from 'lucide-react';
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -152,6 +152,8 @@ const Header = () => {
               </Link>
             </nav>
 
+            {/* Mobile Menu and Quote Button */}
+            <div className="flex items-center space-x-4">
               {/* Quote Button */}
               <Link
                 to="/contact"
@@ -176,15 +178,6 @@ const Header = () => {
           <div className="lg:hidden bg-white border-t border-gray-100 shadow-lg">
             <div className="container mx-auto px-4 py-4">
               <div className="space-y-4">
-                <div className="flex items-center bg-gray-100 rounded-lg px-3 py-2 md:hidden">
-                  <Search size={18} className="text-gray-400 mr-2" />
-                  <input
-                    type="text"
-                    placeholder="Search products..."
-                    className="bg-transparent text-sm outline-none flex-1"
-                  />
-                </div>
-                
                 <Link 
                   to="/" 
                   className="block py-2 text-gray-700 hover:text-yellow-600 transition-colors"
