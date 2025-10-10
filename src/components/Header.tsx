@@ -60,14 +60,21 @@ const Header = () => {
           <div className="flex items-center justify-between h-20">
             {/* Logo */}
             <Link to="/" className="flex items-center space-x-3 group">
-              <div className="w-12 h-12 bg-gradient-to-br from-yellow-400 to-yellow-500 rounded-lg flex items-center justify-center transform group-hover:scale-105 transition-transform duration-200 animate-pulse-glow">
-                <span className="text-white font-bold text-xl">CF</span>
-              </div>
-              <div className="hidden sm:block">
-                <h1 className="text-2xl font-bold text-gray-900 group-hover:text-yellow-600 transition-colors">
-                  CHANAFAM
-                </h1>
-                <p className="text-sm text-gray-600 -mt-1">INVESTMENT</p>
+              {/* Logo Image */}
+              <div className="flex items-center space-x-3">
+                <div className="w-16 h-16 bg-white rounded-lg flex items-center justify-center transform group-hover:scale-105 transition-transform duration-200">
+                  <img 
+                    src="/Chanafam Logo.png" 
+                    alt="CHANAFAM INVESTMENT Logo"
+                    className="w-full h-full object-contain rounded-lg"
+                  />
+                </div>
+                <div className="hidden sm:block">
+                  <h1 className="text-2xl font-bold text-gray-900 group-hover:text-yellow-600 transition-colors">
+                    CHANAFAM
+                  </h1>
+                  <p className="text-sm text-gray-600 -mt-1">INVESTMENT</p>
+                </div>
               </div>
             </Link>
 
