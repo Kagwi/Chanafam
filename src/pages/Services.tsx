@@ -43,7 +43,7 @@ const Services = () => {
         'Quick turnaround',
         'Professional finish'
       ],
-      image: '/Steel Cutting',
+      image: '/Steel Cutting.PNG',
       pricing: 'Quote on request'
     },
     {
