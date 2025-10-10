@@ -179,7 +179,7 @@ const Home = () => {
     },
     {
       name: 'Metal Sheets',
-      image: '/Metal Sheets.PNG',
+      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Metal%20%20Sheets.PNG',
       description: 'Quality metal sheets for roofing and construction',
       features: ['Galvanized Coating', 'Various Thicknesses', 'Custom Sizes', 'Weather Resistant']
     },
