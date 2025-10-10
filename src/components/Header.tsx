@@ -60,7 +60,7 @@ const Header = () => {
           <div className="flex items-center justify-between h-20">
             {/* Logo */}
             <Link to="/" className="flex items-center space-x-3 group">
-              <div className="w-12 h-12 bg-gradient-to-br from-pink-400 to-green-500 rounded-lg flex items-center justify-center transform group-hover:scale-105 transition-transform duration-200 animate-pulse-glow">
+              <div className="w-12 h-12 bg-gradient-to-br from-pink-400 to-yellow-500 rounded-lg flex items-center justify-center transform group-hover:scale-105 transition-transform duration-200 animate-pulse-glow">
                 <span className="text-white font-bold text-xl">CF</span>
               </div>
               <div className="hidden sm:block">
