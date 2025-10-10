@@ -107,7 +107,7 @@ const Home = () => {
     },
     {
       name: 'Water Storage Tanks',
-      image: '/Plumbing 2.jpg',
+      image: '/Plumbing 4.jpg',
       description: 'Durable water tanks for residential and commercial use',
       features: ['Food Grade Material', 'Various Capacities', 'UV Protected', 'Easy Maintenance']
     },
