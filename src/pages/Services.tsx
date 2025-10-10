@@ -29,7 +29,7 @@ const Services = () => {
         'Sample testing available',
         'Wide color palette'
       ],
-      image: 'https://images.pexels.com/photos/1669799/pexels-photo-1669799.jpeg?auto=compress&cs=tinysrgb&w=500',
+      image: '/Pain 1.jpg',
       pricing: 'Available on request'
     },
     {
@@ -43,13 +43,13 @@ const Services = () => {
         'Quick turnaround',
         'Professional finish'
       ],
-      image: 'https://images.pexels.com/photos/159728/gear-metal-cog-wheel-159728.jpeg?auto=compress&cs=tinysrgb&w=500',
+      image: '/Steel Cutting',
       pricing: 'Quote on request'
     },
     {
       icon: Wrench,
-      name: 'Lumber Treatment',
-      description: 'Professional lumber treatment and finishing services',
+      name: 'Lumber Cutting',
+      description: 'Professional lumber Cutting and finishing services for your construction needs',
       features: [
         'Pressure treatment',
         'Fire retardant treatment',
@@ -57,7 +57,7 @@ const Services = () => {
         'Quality finishing',
         'Bulk processing'
       ],
-      image: 'https://images.pexels.com/photos/175709/pexels-photo-175709.jpeg?auto=compress&cs=tinysrgb&w=500',
+      image: '/Lumber Cutting Chanafam.PNG',
       pricing: 'Contact for pricing'
     }
   ];
