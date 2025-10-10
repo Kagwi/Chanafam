@@ -68,7 +68,7 @@ This message was sent from the CHANAFAM INVESTMENT website contact form.`
     {
       icon: Phone,
       title: 'Phone',
-      details: ['+1 (555) 123-4567', '+1 (555) 123-4568'],
+      details: ['+254 799 063 452', '+254 106 713 487', '+254 726 495 237'],
       color: 'text-green-600'
     },
     {
@@ -318,11 +318,11 @@ This message was sent from the CHANAFAM INVESTMENT website contact form.`
                     <h3 className="font-semibold text-gray-900 mb-2">Need Immediate Assistance?</h3>
                     <p className="text-gray-700 mb-3">Call us directly for urgent inquiries or immediate quotes:</p>
                     <a
-                      href="tel:+15551234567"
+                      href="tel:+254 106 713 487"
                       className="inline-flex items-center text-yellow-600 font-semibold hover:text-orange-500 transition-colors"
                     >
                       <Phone size={16} className="mr-2" />
-                      +1 (555) 123-4567
+                      +254 106 713 487
                     </a>
                   </div>
 
