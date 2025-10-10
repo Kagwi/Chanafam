@@ -74,7 +74,7 @@ This message was sent from the CHANAFAM INVESTMENT website contact form.`
     {
       icon: Mail,
       title: 'Email',
-      details: ['chanafaminvestment@gmail.com', 'sales@chanafarm.com'],
+      details: ['chanafaminvestment@gmail.com'],
       color: 'text-purple-600'
     },
     {
