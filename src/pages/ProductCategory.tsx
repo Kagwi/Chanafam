@@ -101,13 +101,13 @@ const ProductCategory = () => {
     },
     steel: {
       name: 'Steel & Metal',
-      description: 'High-quality steel products including D9 steel and custom fabrication',
+      description: 'High-quality steel products including D8, D10, D12, D16, D20, D25, and D32  steel and custom fabrication',
       hero: 'https://images.pexels.com/photos/159728/gear-metal-cog-wheel-159728.jpeg?auto=compress&cs=tinysrgb&w=1920',
       products: [
         {
-          name: 'D9 Steel Bars',
+          name: 'D8, D10, D12, D16, D20, D25, and D32  Steel Bars',
           image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Steel%204.jpg',
-          description: 'High-strength D9 steel bars for construction reinforcement',
+          description: 'High-strength D8, D10, D12, D16, D20, D25, and D32 steel bars for construction reinforcement',
           features: ['High Tensile Strength', 'Corrosion Resistant', 'Various Diameters', 'Quality Tested']
         },
         {
