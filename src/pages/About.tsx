@@ -166,45 +166,7 @@ const About = () => {
           </div>
         </div>
       </section>
-
-      {/* Owner Section */}
-      <section className="py-20 bg-gray-50">
-        <div className="container mx-auto px-4">
-          <div className="max-w-6xl mx-auto">
-            <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-              <div>
-                <img
-                  src="https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=800"
-                  alt="Company Owner"
-                  className="w-full h-96 object-cover rounded-lg shadow-lg"
-                />
-              </div>
-              <div>
-                <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">Meet Our Founder</h2>
-                <h3 className="text-2xl font-semibold text-yellow-600 mb-4">John Chanafam</h3>
-                <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                  With extensive experience in the construction and building materials industry, 
-                  John founded CHANAFAM INVESTMENT with a vision to revolutionize how contractors 
-                  and builders access quality materials.
-                </p>
-                <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                  His hands-on experience in construction gave him unique insights into what 
-                  professionals really need - not just products, but solutions. This understanding 
-                  drives our commitment to providing expert advice alongside quality materials.
-                </p>
-                <div className="flex items-start space-x-4">
-                  <CheckCircle className="text-green-500 mt-1" size={20} />
-                  <p className="text-gray-600">
-                    "Our success is measured by our customers' success. Every project completed 
-                    with our materials is a testament to our commitment to quality."
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
+      
       {/* Stats Section */}
       <section className="py-20 bg-gradient-to-br from-yellow-400 to-orange-500 text-white">
         <div className="container mx-auto px-4">
