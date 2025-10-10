@@ -25,14 +25,14 @@ const Gallery = () => {
       id: 2,
       title: 'PVC Pipe Installation',
       category: 'products',
-      image: 'https://images.pexels.com/photos/1249611/pexels-photo-1249611.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: '/PVC Chanafam.PNG',
       description: 'High-quality PVC pipes for plumbing systems'
     },
     {
       id: 3,
       title: 'Steel Framework',
       category: 'construction',
-      image: 'https://images.pexels.com/photos/162553/keys-workshop-mechanic-tools-162553.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: '/Steel Framework Chanafam.PNG',
       description: 'D9 steel framework for industrial building'
     },
     {
@@ -46,39 +46,32 @@ const Gallery = () => {
       id: 5,
       title: 'Residential Tiling Project',
       category: 'projects',
-      image: 'https://images.pexels.com/photos/1090638/pexels-photo-1090638.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: '/Residential Tiling Project.PNG',
       description: 'Beautiful ceramic tile installation in modern home'
     },
     {
       id: 6,
       title: 'Wood Products Display',
       category: 'products',
-      image: 'https://images.pexels.com/photos/175709/pexels-photo-175709.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: '/Wood Products Display.PNG',
       description: 'Premium lumber and plywood products'
     },
     {
       id: 7,
       title: 'Door Installation',
       category: 'projects',
-      image: 'https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: '/Door Installations.PNG',
       description: 'Quality door installation in commercial building'
     },
     {
       id: 8,
       title: 'Metal Fabrication',
       category: 'products',
-      image: 'https://images.pexels.com/photos/159728/gear-metal-cog-wheel-159728.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: '/Metal Fabrication Chanafam.PNG',
       description: 'Custom steel fabrication and cutting services'
     },
     {
       id: 9,
-      title: 'Residential Construction',
-      category: 'construction',
-      image: 'https://images.pexels.com/photos/280229/pexels-photo-280229.jpeg?auto=compress&cs=tinysrgb&w=800',
-      description: 'New home construction using our building materials'
-    },
-    {
-      id: 10,
       title: 'Tools and Hardware',
       category: 'products',
       image: '/Hero 3.jpg',
