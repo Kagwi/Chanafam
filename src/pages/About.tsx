@@ -96,8 +96,8 @@ const About = () => {
             </div>
             <div className="space-y-6">
               <img
-                src="https://images.pexels.com/photos/1249611/pexels-photo-1249611.jpeg?auto=compress&cs=tinysrgb&w=800"
-                alt="Our warehouse"
+                src="/Hero 1 - Copy - Copy - Copy.jpg"
+                alt="Our Hardware"
                 className="w-full h-64 object-cover rounded-lg shadow-lg"
               />
               <img
@@ -181,7 +181,7 @@ const About = () => {
               <p className="text-lg">Happy Customers</p>
             </div>
             <div className="text-center">
-              <div className="text-4xl md:text-5xl font-bold mb-2">5000+</div>
+              <div className="text-4xl md:text-5xl font-bold mb-2">500+</div>
               <p className="text-lg">Products Available</p>
             </div>
             <div className="text-center">
