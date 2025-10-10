@@ -76,7 +76,7 @@ const Header = () => {
               <Link 
                 to="/" 
                 className={`font-medium transition-colors hover:text-yellow-600 ${
-                  location.pathname === '/' ? 'text-green-600' : 'text-gray-700'
+                  location.pathname === '/' ? 'text-yellow-600' : 'text-gray-700'
                 }`}
               >
                 Home
