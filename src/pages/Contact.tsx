@@ -39,7 +39,7 @@ This message was sent from the CHANAFAM INVESTMENT website contact form.`
     );
 
     // Open default email client
-    window.location.href = `mailto:info@chanafarm.com?subject=${emailSubject}&body=${emailBody}`;
+    window.location.href = `mailto:chanafaminvestment@gmail.com?subject=${emailSubject}&body=${emailBody}`;
     
     setIsSubmitted(true);
     
@@ -74,7 +74,7 @@ This message was sent from the CHANAFAM INVESTMENT website contact form.`
     {
       icon: Mail,
       title: 'Email',
-      details: ['info@chanafarm.com', 'sales@chanafarm.com'],
+      details: ['chanafaminvestment@gmail.com', 'sales@chanafarm.com'],
       color: 'text-purple-600'
     },
     {
@@ -336,11 +336,11 @@ This message was sent from the CHANAFAM INVESTMENT website contact form.`
                     <h3 className="font-semibold text-gray-900 mb-2">Email Support</h3>
                     <p className="text-gray-700 mb-3">For detailed inquiries and file attachments:</p>
                     <a
-                      href="mailto:info@chanafarm.com"
+                      href="mailto:chanafaminvestment@gmail.com"
                       className="inline-flex items-center text-blue-600 font-semibold hover:text-blue-700 transition-colors"
                     >
                       <Mail size={16} className="mr-2" />
-                      info@chanafarm.com
+                      chanafaminvestment@gmail.com
                     </a>
                   </div>
                 </div>
