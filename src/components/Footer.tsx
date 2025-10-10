@@ -23,13 +23,13 @@ const Footer = () => {
               Quality products, competitive prices, and exceptional service.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-400 hover:text-yellow-400 transition-colors">
+              <a href="https://www.facebook.com/profile.php?id=61581791594021" className="text-gray-400 hover:text-yellow-400 transition-colors">
                 <Facebook size={20} />
               </a>
-              <a href="#" className="text-gray-400 hover:text-yellow-400 transition-colors">
+              <a href="https://x.com/chanafam007" className="text-gray-400 hover:text-yellow-400 transition-colors">
                 <Twitter size={20} />
               </a>
-              <a href="#" className="text-gray-400 hover:text-yellow-400 transition-colors">
+              <a href="https://www.instagram.com/chanafarminvestment/" className="text-gray-400 hover:text-yellow-400 transition-colors">
                 <Instagram size={20} />
               </a>
               <a href="#" className="text-gray-400 hover:text-yellow-400 transition-colors">
