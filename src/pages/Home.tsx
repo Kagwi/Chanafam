@@ -9,13 +9,13 @@ const Home = () => {
     {
       title: 'Expert Services & Support',
       subtitle: 'From custom paint mixing to steel cutting and delivery services, our expert team provides comprehensive support for all your projects.',
-      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Hero%201%20-%20Copy%20-%20Copy%20-%20Copy.jpg',
+      image: '/Hero 1 - Copy - Copy - Copy.jpg',
       cta: 'Our Services'
     },
     {
       title: 'Your Complete Building Materials Solution',
       subtitle: 'From plumbing to paintwork, steel to tiles - CHANAFAM INVESTMENT supplies everything you need for your construction and renovation projects.',
-      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Hero%202.jpg',
+      image: '/Hero 2.jpg',
       cta: 'Explore Products'
     },
     {
@@ -27,13 +27,13 @@ const Home = () => {
     {
       title: 'Your Complete Building Materials Solution',
       subtitle: 'From plumbing to paintwork, steel to tiles - CHANAFAM INVESTMENT supplies everything you need for your construction and renovation projects.',
-      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Hero%203.jpg',
+      image: '/Hero 3.jpg',
       cta: 'Explore Products'
     },
     {
       title: 'Premium Quality Materials',
       subtitle: 'We source only the highest quality building materials from trusted suppliers to ensure your projects meet the highest standards.',
-      image: 'https://github.com/Kagwi/Chanafam/blob/main/public/Hero%204.jpg?raw=true',
+      image: '/Hero 4.jpg',
       cta: 'View Products'
     },
     {
@@ -62,37 +62,37 @@ const Home = () => {
   const categories = [
     {
       name: 'Plumbing',
-      image: 'https://github.com/Kagwi/Chanafam/blob/main/public/Plumbing%201.jpg?raw=true',
+      image: '/Plumbing 1.jpg',
       description: 'Pipes, fittings, tanks & more',
       path: '/products/plumbing'
     },
     {
       name: 'Wood Products',
-      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Wood%201.jpg',
+      image: '/Wood 1.jpg',
       description: 'Plywood, lumber & wood materials',
       path: '/products/wood'
     },
     {
       name: 'Paintwork',
-      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Pain%201.jpg',
+      image: '/Pain 1.jpg',
       description: 'Custom paint mixing with Duracoat',
       path: '/products/paintwork'
     },
     {
       name: 'Steel & Metal',
-      image: 'https://github.com/Kagwi/Chanafam/blob/main/public/Steel%201.jpg?raw=true',
-      description: 'D9 steel, metal sheets & steelwork',
+      image: '/Steel 1.jpg',
+      description: 'D10, D12,D14, D16 steel, metal sheets & steelwork',
       path: '/products/steel'
     },
     {
       name: 'Tiles',
-      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Tiles.jpg',
+      image: '/Tiles.jpg',
       description: 'Floor & wall tiles for every project',
       path: '/products/tiles'
     },
     {
       name: 'Doors & Windows',
-      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Doors%20Chanafam_imgupscaler.ai_v1(Fast)_2K.jpg',
+      image: '/Doors Chanafam_imgupscaler.ai_v1(Fast)_2K.jpg',
       description: 'Quality doors & windows',
       path: '/products/doors-windows'
     }
@@ -101,19 +101,19 @@ const Home = () => {
   const featuredProducts = [
     {
       name: 'PVC Pipes - Various Sizes',
-      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Plumbing%201.jpg',
+      image: '/Plumbing 1.jpg',
       description: 'High-quality PVC pipes available in various diameters',
       features: ['Corrosion Resistant', 'Easy Installation', '25 Year Warranty', 'UV Resistant']
     },
     {
       name: 'Water Storage Tanks',
-      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Plumbing%204.jpg',
+      image: '/Plumbing 2.jpg',
       description: 'Durable water tanks for residential and commercial use',
       features: ['Food Grade Material', 'Various Capacities', 'UV Protected', 'Easy Maintenance']
     },
     {
       name: 'Pipe Fittings & Joints',
-      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Pipe%20Fittings%20Chanafam%201.PNG',
+      image: '/Pipe Fittings Chanafam 1.PNG',
       description: 'Complete range of pipe fittings and connection joints',
       features: ['Leak Proof', 'Various Sizes', 'Easy Installation', 'Long Lasting']
     },
