@@ -172,7 +172,7 @@ const Home = () => {
       features: ['Exact Color Match', 'Computer Assisted', 'Quick Service', 'Color Cards Available']
     },
     {
-      name: 'D9 Steel Bars',
+      name: 'D8, D10, D12, D16, D20, D25, and D32 Steel Bars',
       image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Steel%204.jpg',
       description: 'High-strength D9 steel bars for construction reinforcement',
       features: ['High Tensile Strength', 'Corrosion Resistant', 'Various Diameters', 'Quality Tested']
