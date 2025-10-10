@@ -60,7 +60,7 @@ const Header = () => {
           <div className="flex items-center justify-between h-20">
             {/* Logo */}
             <Link to="/" className="flex items-center space-x-3 group">
-              <div className="w-12 h-12 bg-gradient-to-br from-yellow-400 to-orange-500 rounded-lg flex items-center justify-center transform group-hover:scale-105 transition-transform duration-200 animate-pulse-glow">
+              <div className="w-12 h-12 bg-gradient-to-br from-pink-400 to-green-500 rounded-lg flex items-center justify-center transform group-hover:scale-105 transition-transform duration-200 animate-pulse-glow">
                 <span className="text-white font-bold text-xl">CF</span>
               </div>
               <div className="hidden sm:block">
@@ -76,7 +76,7 @@ const Header = () => {
               <Link 
                 to="/" 
                 className={`font-medium transition-colors hover:text-yellow-600 ${
-                  location.pathname === '/' ? 'text-yellow-600' : 'text-gray-700'
+                  location.pathname === '/' ? 'text-green-600' : 'text-gray-700'
                 }`}
               >
                 Home
