@@ -39,7 +39,7 @@ const Gallery = () => {
       id: 4,
       title: 'Paint Mixing Station',
       category: 'warehouse',
-      image: 'https://images.pexels.com/photos/1669799/pexels-photo-1669799.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: '/Pain 1.jpg',
       description: 'Our professional Duracoat paint mixing facility'
     },
     {
@@ -65,38 +65,24 @@ const Gallery = () => {
     },
     {
       id: 8,
-      title: 'Warehouse Operations',
-      category: 'warehouse',
-      image: 'https://images.pexels.com/photos/1413412/pexels-photo-1413412.jpeg?auto=compress&cs=tinysrgb&w=800',
-      description: 'Our efficient warehouse and logistics operations'
-    },
-    {
-      id: 9,
       title: 'Metal Fabrication',
       category: 'products',
       image: 'https://images.pexels.com/photos/159728/gear-metal-cog-wheel-159728.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Custom steel fabrication and cutting services'
     },
     {
-      id: 10,
+      id: 9,
       title: 'Residential Construction',
       category: 'construction',
       image: 'https://images.pexels.com/photos/280229/pexels-photo-280229.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'New home construction using our building materials'
     },
     {
-      id: 11,
+      id: 10,
       title: 'Tools and Hardware',
       category: 'products',
-      image: 'https://images.pexels.com/photos/209271/pexels-photo-209271.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: '/Hero 3.jpg',
       description: 'Professional tools and hardware supplies'
-    },
-    {
-      id: 12,
-      title: 'Completed Office Building',
-      category: 'projects',
-      image: 'https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=800',
-      description: 'Modern office building completed with our materials'
     }
   ];
 
