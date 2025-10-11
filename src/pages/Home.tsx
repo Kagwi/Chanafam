@@ -154,6 +154,12 @@ const Home = () => {
       features: ['Cost Effective', 'Strong & Stable', 'Various Thicknesses', 'Easy to Work']
     },
     {
+       name: 'Gypsum Ceilings',
+       image: '/Gypsum Ceilings.PNG',
+       description: 'Engineered gypsum ceilings for interior design needs',
+       features: ['Cost Effective', 'Strong & Stable', 'Various Thicknesses', 'Easy to Work']
+    },
+    {
       name: 'Duracoat Interior Paint',
       image: '/Pain 1.jpg',
       description: 'Premium interior paint with custom color matching',
