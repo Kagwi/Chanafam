@@ -118,6 +118,12 @@ const Home = () => {
       features: ['Leak Proof', 'Various Sizes', 'Easy Installation', 'Long Lasting']
     },
     {
+      name: 'Toilet Bowls',
+      image: '/Toilet.PNG',
+      description: 'Superior Quality toilet bowl varieties',
+      features: ['Durable', 'Various Brands', 'Comfortable', 'Quality Guaranteed']
+    },    
+    {
       name: 'Tissue Holders',
       image: '/Tissue Holders.PNG',
       description: 'Durable tissue holders',
