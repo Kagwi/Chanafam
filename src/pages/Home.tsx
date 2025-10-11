@@ -118,6 +118,12 @@ const Home = () => {
       features: ['Leak Proof', 'Various Sizes', 'Easy Installation', 'Long Lasting']
     },
     {
+      name: 'Stainless Steel Sinks',
+      image: '/Sinks.PNG',
+      description: 'Durable sink varieties',
+      features: ['Superior Grade Material', 'Various Brands', 'Stainless Steel', 'Durable']
+    },    
+    {
       name: 'Taps & Fixtures',
       image: '/Taps Chanafam.PNG',
       description: 'Quality taps and plumbing fixtures for all applications',
