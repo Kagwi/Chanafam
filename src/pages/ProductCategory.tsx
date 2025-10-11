@@ -18,6 +18,30 @@ const ProductCategory = () => {
           features: ['Corrosion Resistant', 'Easy Installation', '25 Year Warranty', 'UV Resistant']
         },
         {
+          name: 'Stainless Steel Sinks',
+          image: '/Sinks.PNG',
+          description: 'Durable sink varieties',
+          features: ['Superior Grade Material', 'Various Brands', 'Stainless Steel', 'Durable']
+        },
+        {
+          name: 'Toilet Bowls',
+          image: '/Toilet.PNG',
+          description: 'Superior Quality toilet bowl varieties',
+          features: ['Durable', 'Various Brands', 'Comfortable', 'Quality Guaranteed']
+        },
+        {
+          name: 'Tissue Holders',
+          image: '/Tissue Holders.PNG',
+          description: 'Durable tissue holders',
+          features: ['Superior Grade Material', 'Various Brands', 'Stainless Steel', 'Durable']
+        },
+        {
+          name: 'Towel Hangers',
+          image: '/Towel Hangers.PNG',
+          description: 'Durable towel hangers',
+          features: ['Superior Grade Material', 'Various Brands', 'Stainless Steel', 'Durable']
+        },
+        {
           name: 'Water Storage Tanks',
           image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Plumbing%204.jpg',
           description: 'Durable water tanks for residential and commercial use',
@@ -60,6 +84,18 @@ const ProductCategory = () => {
           description: 'Pressure-treated lumber for outdoor applications',
           features: ['Insect Resistant', 'Weather Resistant', 'Various Sizes', 'Long Lasting']
         },
+        {
+          name: 'Flowered Ceilings',
+          image: '/Flowered Ceilings.PNG',
+          description: 'Engineered flowered ceilings for interior design needs',
+          features: ['Cost Effective', 'Strong & Stable', 'Various Thicknesses', 'Easy to Work']
+        },
+        {
+          name: 'Gypsum Ceilings',
+          image: '/Gypsum Ceilings.PNG',
+          description: 'Engineered gypsum ceilings for interior design needs',
+          features: ['Cost Effective', 'Strong & Stable', 'Various Thicknesses', 'Easy to Work']
+        },        
         {
           name: 'Plywood',
           image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Plywood%20Chanafam.PNG',
