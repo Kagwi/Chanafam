@@ -59,14 +59,6 @@ const Products = () => {
       description: 'Essential hardware supplies including nails, screws, tools, and fasteners',
       products: ['Nails & Screws', 'Tools', 'Fasteners', 'Hardware Supplies', 'Safety Equipment'],
       featured: false
-    },
-    {
-      name: 'Roofing Materials',
-      path: '/products/roofing',
-      image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Metal%20%20Sheets.PNG',
-      description: 'Complete roofing solutions including sheets, tiles, and accessories',
-      products: ['Roofing Sheets', 'Roof Tiles', 'Gutters', 'Flashing', 'Roofing Tools'],
-      featured: true
     }
   ];
 
