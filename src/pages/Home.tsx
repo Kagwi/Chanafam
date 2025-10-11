@@ -242,8 +242,8 @@ const Home = () => {
       image: '/Cement.jpg',
       description: 'Professional hand tools for construction and maintenance',
       features: ['Durable Construction', 'Reliable Brands', 'Swift Delivery', 'Professional Grade']
-    },
- {
+    },    
+    {
           name: 'White Cement',
           image: '/White Cement.PNG',
           description: 'Professional white cement brands for construction and maintenance',
@@ -278,6 +278,12 @@ const Home = () => {
       image: '/General 3.jpg',
       description: 'Quality power tools for efficient construction work',
       features: ['Reliable Strength', 'Safety', 'Various Types', 'Free Delivery']
+    },
+    {
+      name: 'Towel Hangers',
+      image: '/Towel Hangers.PNG',
+      description: 'Durable towel hangers',
+      features: ['Superior Grade Material', 'Various Brands', 'Stainless Steel', 'Durable']
     },
     {
       name: 'Fasteners & Bolts',
