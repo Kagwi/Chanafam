@@ -118,6 +118,12 @@ const Home = () => {
       features: ['Leak Proof', 'Various Sizes', 'Easy Installation', 'Long Lasting']
     },
     {
+      name: 'Tissue Holders',
+      image: '/Tissue Holders.PNG',
+      description: 'Durable tissue holders',
+      features: ['Superior Grade Material', 'Various Brands', 'Stainless Steel', 'Durable']
+    },
+    {
       name: 'Stainless Steel Sinks',
       image: '/Sinks.PNG',
       description: 'Durable sink varieties',
