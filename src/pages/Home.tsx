@@ -142,6 +142,12 @@ const Home = () => {
       features: ['Insect Resistant', 'Weather Resistant', 'Various Sizes', 'Long Lasting']
     },
     {
+      name: 'Flowered Ceilings',
+      image: '/Flowered Ceilings.PNG',
+      description: 'Engineered flowered ceilings for interior design needs',
+      features: ['Cost Effective', 'Strong & Stable', 'Various Thicknesses', 'Easy to Work']
+    },
+    {
       name: 'Plywood',
       image: '/Plywood Chanafam.PNG',
       description: 'Engineered wood panels for various construction needs',
