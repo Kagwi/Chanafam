@@ -213,6 +213,36 @@ const Home = () => {
       description: 'Professional hand tools for construction and maintenance',
       features: ['Durable Construction', 'Reliable Brands', 'Swift Delivery', 'Professional Grade']
     },
+ {
+          name: 'White Cement',
+          image: '/White Cement.PNG',
+          description: 'Professional white cement brands for construction and maintenance',
+          features: ['Durable Construction', 'Reliable Brands', 'Swift Delivery', 'Professional Grade']
+        },
+        {
+          name: 'Cutting Discs',
+          image: '/Cutting Discs.PNG',
+          description: 'Professional cutting discs for construction and maintenance',
+          features: ['Durable Construction', 'Reliable Quality', 'Swift Delivery', 'Professional Grade']
+        },
+        {
+          name: 'Wheelbarrows',
+          image: '/Wheelbarrow.PNG',
+          description: 'Professional wheel barrows for construction and maintenance',
+          features: ['Durable Construction', 'Reliable Brands', 'Swift Delivery', 'Professional Grade']
+        },
+        {
+          name: 'Rakes',
+          image: '/Rakes.PNG',
+          description: 'Quality rakes for landscaping maintenance',
+          features: ['Quality', 'Various Types', 'Multiple Sizes', 'Durable']
+        },
+        {
+          name: 'Jembes',
+          image: '/Jembes.PNG',
+          description: 'Quality jembes for landscaping maintenance and other uses',
+          features: ['Quality', 'Various Types', 'Multiple Sizes', 'Durable']
+        },    
     {
       name: 'Fences',
       image: '/General 3.jpg',
