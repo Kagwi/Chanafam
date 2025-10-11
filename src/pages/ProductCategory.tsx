@@ -117,6 +117,12 @@ const ProductCategory = () => {
           features: ['Galvanized Coating', 'Various Thicknesses', 'Custom Sizes', 'Weather Resistant']
         },
         {
+          name: 'Roofing Gutters',
+          image: '/Gutters.PNG',
+          description: 'Variety gutters for your roofing construction and maintenance needs',
+          features: ['Durable Construction', 'Reliable Brands', 'Swift Delivery', 'Professional Grade']
+        },
+        {
           name: 'Steel Angles & Channels',
           image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Steel%201.jpg',
           description: 'Structural steel angles and channels for construction',
@@ -226,6 +232,18 @@ const ProductCategory = () => {
           image: '/Wheelbarrow.PNG',
           description: 'Professional wheel barrows for construction and maintenance',
           features: ['Durable Construction', 'Reliable Brands', 'Swift Delivery', 'Professional Grade']
+        },
+        {
+          name: 'Rakes',
+          image: '/Rakes.PNG',
+          description: 'Quality rakes for landscaping maintenance',
+          features: ['Quality', 'Various Types', 'Multiple Sizes', 'Durable']
+        },
+        {
+          name: 'Jembes',
+          image: '/Jembes.PNG',
+          description: 'Quality jembes for landscaping maintenance and other uses',
+          features: ['Quality', 'Various Types', 'Multiple Sizes', 'Durable']
         },
         {
           name: 'Fences',
