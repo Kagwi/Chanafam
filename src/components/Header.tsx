@@ -65,15 +65,15 @@ const Header = () => {
                 <div className="w-16 h-16 bg-white rounded-lg flex items-center justify-center transform group-hover:scale-105 transition-transform duration-200 shadow-md border border-gray-200">
                   <img 
                     src="/Chanafam Logo.png" 
-                    alt="CHANAFARM INVESTMENT Logo"
+                    alt="CHANAFAM INVESTMENT Logo"
                     className="w-full h-full object-contain rounded-lg p-1"
                   />
                 </div>
                 <div className="block">
-                  <h1 className="text-xl sm:text-2xl font-bold text-gray-900 group-hover:text-yellow-600 transition-colors">
-                    CHANAFARM
+                  <h1 className="text-xl sm:text-2xl font-bold text-orange-900 group-hover:text-yellow-600 transition-colors">
+                    CHANAFAM
                   </h1>
-                  <p className="text-xs sm:text-sm text-gray-600 -mt-1">INVESTMENT</p>
+                  <p className="text-xs sm:text-sm text-orange-600 -mt-1">INVESTMENT</p>
                 </div>
               </div>
             </Link>
