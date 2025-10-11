@@ -70,7 +70,7 @@ const Header = () => {
                   />
                 </div>
                 <div className="block">
-                  <h1 className="text-xl sm:text-2xl font-bold text-orange-900 group-hover:text-yellow-600 transition-colors">
+                  <h1 className="text-xl sm:text-2xl font-bold text-yellow-900 group-hover:text-orange-600 transition-colors">
                     CHANAFAM
                   </h1>
                   <p className="text-xs sm:text-sm text-orange-600 -mt-1">INVESTMENT</p>
