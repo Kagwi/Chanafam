@@ -206,7 +206,25 @@ const ProductCategory = () => {
         {
           name: 'Cement',
           image: 'https://raw.githubusercontent.com/Kagwi/Chanafam/refs/heads/main/public/Cement.jpg',
-          description: 'Professional hand tools for construction and maintenance',
+          description: 'Professional cement brands for construction and maintenance',
+          features: ['Durable Construction', 'Reliable Brands', 'Swift Delivery', 'Professional Grade']
+        },
+        {
+          name: 'White Cement',
+          image: '/White Cement.PNG',
+          description: 'Professional white cement brands for construction and maintenance',
+          features: ['Durable Construction', 'Reliable Brands', 'Swift Delivery', 'Professional Grade']
+        },
+        {
+          name: 'Cutting Discs',
+          image: '/Cutting Discs.PNG',
+          description: 'Professional cutting discs for construction and maintenance',
+          features: ['Durable Construction', 'Reliable Quality', 'Swift Delivery', 'Professional Grade']
+        },
+        {
+          name: 'Wheelbarrows',
+          image: '/Wheelbarrow.PNG',
+          description: 'Professional wheel barrows for construction and maintenance',
           features: ['Durable Construction', 'Reliable Brands', 'Swift Delivery', 'Professional Grade']
         },
         {
