@@ -184,6 +184,12 @@ const Home = () => {
       features: ['Galvanized Coating', 'Various Thicknesses', 'Custom Sizes', 'Weather Resistant']
     },
     {
+      name: 'Roofing Gutters',
+      image: '/Gutters.PNG',
+      description: 'Variety gutters for your roofing construction and maintenance needs',
+      features: ['Durable Construction', 'Reliable Brands', 'Swift Delivery', 'Professional Grade']
+    }, 
+    {
       name: 'Steel Angles & Channels',
       image: '/Steel 1.jpg',
       description: 'Structural steel angles and channels for construction',
